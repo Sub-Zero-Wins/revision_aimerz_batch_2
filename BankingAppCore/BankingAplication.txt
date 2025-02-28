@@ -1,0 +1,22 @@
+BankingAplication
+------------------
+
+admin stories
+--------------
+
+as an admin i should be able to register login
+as an admin i should be able to create accounts
+as an admin i should be able to update accounts
+as an admin i should be able to delete accounts
+as an admin i should be able to mark account as active/inactive
+
+
+customer stories
+----------------
+
+as a customer i should be able to register/login
+as a customer i should be able to deposit money
+as a customer i should be able to withdraw money
+as a customer i should be able to perform money transfers
+as a customer i should be able to view my account balance
+as a customer i should be able to see y transaction history
