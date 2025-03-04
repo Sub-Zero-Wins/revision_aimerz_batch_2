@@ -1,0 +1,15 @@
+Event Management System REST API 
+-----------------------------------
+Admin stories
+-------------
+As an admin i should be able to login
+As an admin i should be able to add events
+As an admin i should be able to update events
+As an admin i should be able to delete events
+
+User stories
+-------------
+As a user i should be able to login
+As a user i should be able too see all events
+As a user i should be able to get events in sorting order of dates or price etc
+As a user i should be able to book events
