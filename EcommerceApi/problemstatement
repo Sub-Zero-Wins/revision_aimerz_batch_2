@@ -1,0 +1,51 @@
+Ecommerce App REST API 
+-----------------------------------
+Admin stories
+-------------
+As an admin i should be able to login
+As an admin i should be able to add products
+As an admin i should be able to update products
+As an admin i should be able to delete products
+As an admin i should be able to approve refund
+
+User stories
+-------------
+As a user i should be able to login
+As a user i should be able too see all products
+As a user i should be able to get producrs in sorting order of dates or price etc
+As a user i should be able to add items to my cart
+As a user i should be able to place order for my items
+As a user i should be able to cancel my order
+As a user i should be able to return my order
+
+
+Entity Classes
+---------------
+
+User
+Product
+Cart
+CartItem
+Order
+OrderItem
+Payment
+Refund
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
