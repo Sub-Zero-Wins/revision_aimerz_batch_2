@@ -1,0 +1,25 @@
+Problem Statemnet
+
+Library Management System
+---------------------------
+
+
+Admin Stories
+--------------
+0. as an admin i should be able to login
+1. as an admin i should be able to create books
+2. as an admin i should be able to update books
+3. as an admin i should be able to delete books
+4. as an admin i should be able to approve book issuing
+5. implement fine functionality if book returned is after due date
+
+
+
+
+user Stories
+-------------
+0.  as an user i should be able to register and login
+1.  as a user i should be able to to view books
+2.  as a user i should be able to borrow books
+3.  as a user i should be able to return book
+4.  as a user i should be able to read books
