@@ -1,0 +1,20 @@
+EventManagementSystem
+
+Admin Stories
+-------------
+0. As an admin i should be able to login and register
+1. As an admin i should be able to add events
+2. As an admin i should be able to update events
+3. As an admin i should be able to delete events
+4. As an admin i should be able to view events
+
+
+User Stories
+-------------
+
+0. as a user i should be able to login and register
+1. As a user i should be able to see all events
+2. As a user i should be able to search for events by name and category
+3. As a user i should be able to book events
+4. As a user i should be able to view my booked events
+5. As a user i should be able to cancel my booking
