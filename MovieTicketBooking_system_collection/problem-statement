@@ -1,0 +1,52 @@
+Movie Ticket Booking Application
+---------------------------------
+
+Admin Stories
+
+as an admin i should be able to login
+as an admin i should be able to add new movies
+as an admin i should be able to update  movies
+as an admin i should be able to delete movies
+
+
+User Stories
+
+as a user i should be able to login/register
+as a user i should be able to book movie tickets
+as a user i should be able to view all movies 
+as a user i should be able to search movies by category
+as a user i should be able to rate movies and add reviews
+
+
+further enhance using below design
+
+package com.events.entity;
+//Movie Entity
+
+public class Movie 
+{
+	int id;
+	String name;
+	String category;
+	Review[] review;
+	double avgRating;
+	int reviewCount = 0;
+	LocalDate releaseDate;
+
+	public Movie(int id, String name, String category) {
+		this.id = id;
+		this.name = name;
+		this.category = category;
+		this.rating = 0.0;
+	}
+}
+
+public class Review
+{
+	int id;
+	int userId;
+	String username;
+	double ratings;
+	String review;
+
+}
